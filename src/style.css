@@ -1,1 +1,45 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #00a651;
+}
+.container {
+  background: white;
+  height: 340px;
+  width: 180px;
+  margin: auto;
+  margin-top: 60px;
+  border-radius: 15px;
+}
+
+.number {
+  font: 70px/100px Georgia, Times New Roman, serif;
+  text-align: center;
+}
+
+.pintaheader {
+  /* color: #ff0000; */
+  margin-left: 10px;
+  font-size: 45px;
+}
+
+.pintafooter {
+  /* color: #ff0000; */
+  font-size: 45px;
+  margin-right: 10px;
+  transform: rotate(180deg);
+}
+.rojo {
+  color: red;
+}
+
+/* .headernegro {
+  color: black;
+  margin-left: 10px;
+  font-size: 45px;
+}
+
+.footernegro {
+  color: black;
+  font-size: 45px;
+  margin-right: 10px;
+  transform: rotate(180deg);
+} */
